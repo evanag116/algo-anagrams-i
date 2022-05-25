@@ -11,4 +11,3 @@ def is_character_match(string1, string2):
 
     return x == y
 
-print(is_character_match("anagram", "nagaram"))
